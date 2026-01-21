@@ -15,7 +15,7 @@ Clean UI structuring with HTML & CSS
 
 🚀 Live Demo
 
-👉 View Project:
+👉 View Project:https://kunal-25-dsc-14.github.io/Digital-clock/
 
 
 🛠️ Tech Stack
