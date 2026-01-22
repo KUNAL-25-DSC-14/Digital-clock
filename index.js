@@ -19,7 +19,7 @@ function updateClock(){
 
     hoursE1.innerText=h;
     minutesE1.innerText=m;
-    secondsE1.innerHTML=s;
+    secondsE1.innerText=s;
     ampmE1.innerText=ampm;
     setTimeout(()=>{
      updateClock();
